@@ -1,4 +1,4 @@
-# ZMK Config for Aurora Corne
+# ZMK Config for Corne
 
 ### Flashing
 
